@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "accounts": {
+    "rows_in": 128,
+    "loaded": 114,
+    "rejected": 6,
+    "merged": 8,
+    "reject_reasons": {
+      "missing_name": 6
+    }
+  },
+  "contacts": {
+    "rows_in": 324,
+    "loaded": 266,
+    "rejected": 48,
+    "merged": 10,
+    "reject_reasons": {
+      "missing_email": 15,
+      "invalid_email": 12,
+      "orphan_account": 21
+    }
+  }
+}

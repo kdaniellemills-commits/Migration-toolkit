@@ -1,0 +1,325 @@
+CONTACT_ID,ACCT_ID,FIRST,LAST,EMAIL,PHONE,TITLE
+C00035,A0014,Mia,Lopez,  mia.lopez35@example.org  ,973.832.0603,Owner
+C00021,A0008,Leo,Reyes,leo.reyes21@example.com,277.063.2424,Controller
+C00246,A0096,Omar,Patel,OMAR.PATEL246@EXAMPLE.NET,831-687-3977,IT Lead
+C00109,A0042,Nia,Brooks,  nia.brooks109@example.net  ,2450882100,Operations Director
+C00169,A0066,Zoe,Brooks,zoe.brooks169@example.com,969.315.7279,Owner
+C00079,A0029,Omar,Davis,  omar.davis79@example.com  ,150-648-9090,Owner
+C00123,A0046,Ivy,Patel,  ivy.patel123@example.com  ,038-862-9127,Operations Director
+C00303,A0118,Zoe,Nguyen,  zoe.nguyen303@example.net  ,7359710725,Office Manager
+C00244,A0095,Omar,Lopez,  omar.lopez244@example.com  ,(623) 972-6527,Controller
+C00267,A0103,Noah,Kim,NOAH.KIM267@EXAMPLE.ORG,252-045-6504,Operations Director
+C00275,A0107,Ivy,Singh,IVY.SINGH275@EXAMPLE.COM,836.151.7182,Controller
+C00219,A0086,Zoe,Ward,ZOE.WARD219@EXAMPLE.COM,580.778.7956,Controller
+C00127,A0050,Nia,Lopez,  nia.lopez127@example.com  ,588-744-9562,Office Manager
+C00050,A0019,Noah,Patel,NOAH.PATEL50@EXAMPLE.NET,675.289.5392,Controller
+C00199,A0078,Eli,Davis,ELI.DAVIS199@EXAMPLE.NET,(039) 551-2405,Operations Director
+C00297,A0116,Ivy,Reyes,ivy.reyes297@example.org,177.656.1248,IT Lead
+C00322,A0021,Eli,Chen,eli.brooks54@example.com,2777079334,Owner
+C00172,A0068,Eli,Chen,eli.chen172@example.org,9086416862,Operations Director
+C00146,A0057,Liam,Chen,liam.chen146@example.com,780-068-1149,IT Lead
+C00071,A0027,Noah,Reyes,NOAH.REYES71@EXAMPLE.NET,(744) 666-0993,Operations Director
+C00020,A0008,Mia,Lopez,mia.lopez20example.org,545-892-9750,Owner
+C00126,A0049,Mia,Kim,MIA.KIM126@EXAMPLE.ORG,512.694.4869,IT Lead
+C00299,A0117,Noah,Ward,noah.ward299@example.net,657-724-2954,IT Lead
+C00203,A0079,Ava,Chen,  ava.chen203@example.net  ,409.435.3344,IT Lead
+C00006,A0003,Liam,Brooks,  liam.brooks6@example.com  ,(888) 993-7567,Controller
+C00056,A0021,Ava,Singh,AVA.SINGH56@EXAMPLE.NET,(872) 050-6149,Owner
+C00208,A0083,Liam,Lopez,liam.lopez208@example.com,5772459928,Owner
+C00277,A0109,Leo,Chen,leo.chen277@example.org,781.126.6912,Office Manager
+C00212,A0084,Noah,Lopez,  noah.lopez212@example.net  ,469.973.3549,IT Lead
+C00158,A0061,Noah,Davis,NOAH.DAVIS158@EXAMPLE.COM,(273) 585-7306,Controller
+C00023,A0009,Eli,Chen,ELI.CHEN23@EXAMPLE.ORG,(271) 361-1155,IT Lead
+C00064,A0025,Liam,Nguyen,LIAM.NGUYEN64@EXAMPLE.COM,4754691373,Operations Director
+C00152,A0059,Omar,Lopez,omar.lopez152@example.org,973.502.0802,Controller
+C00276,A0108,Leo,Chen,leo.chen276@example.org,479-473-8646,IT Lead
+C00085,A0031,Noah,Chen,noah.chen85@example.org,674-676-2120,IT Lead
+C00091,A0033,Leo,Kim,leo.kim91@example.org,037-589-9757,Office Manager
+C00061,A0024,Ivy,Davis,ivy.davis61@example.org,(487) 099-8616,Operations Director
+C00135,A0052,Ivy,Kim,IVY.KIM135@EXAMPLE.COM,(827) 553-9423,Office Manager
+C00139,A0055,Zoe,Nguyen,ZOE.NGUYEN139@EXAMPLE.ORG,7955276365,Controller
+C00066,A0025,Ava,Kim,AVA.KIM66@EXAMPLE.NET,3457861035,Office Manager
+C00237,A0093,Omar,Davis,OMAR.DAVIS237@EXAMPLE.COM,(530) 925-1142,Controller
+C00198,A0078,Eli,Lopez,  eli.lopez198@example.org  ,027.278.5760,Operations Director
+C00313,A9003,Ivy,Brooks,IVY.BROOKS313@EXAMPLE.NET,(214) 764-9251,IT Lead
+C00192,A0076,Ava,Kim,ava.kim192@example.com,(209) 945-1016,Controller
+C00233,A0091,Ivy,Chen,ivy.chen233@example.net,5717320309,IT Lead
+C00129,A0051,Zoe,Nguyen,zoe.nguyen129@example.org,1906698490,IT Lead
+C00286,A0111,Omar,Reyes,OMAR.REYES286@EXAMPLE.ORG,696.591.7135,Office Manager
+C00273,A0107,Noah,Brooks,  noah.brooks273@example.net  ,552-893-8911,Operations Director
+C00304,A0118,Ivy,Ward,  ivy.ward304@example.org  ,118-005-3759,Owner
+C00274,A0107,Mia,Brooks,  mia.brooks274@example.com  ,801-387-5927,Office Manager
+C00229,A0090,Liam,Lopez,  liam.lopez229@example.com  ,962-712-8639,IT Lead
+C00150,A0058,Ivy,Brooks,ivy.brooks150@example.net,3085368663,IT Lead
+C00270,A0104,Liam,Chen,liam.chen270@example.com,075.452.7985,Owner
+C00186,A0074,Ava,Nguyen,AVA.NGUYEN186@EXAMPLE.NET,860.868.0347,Controller
+C00116,A0043,Mia,Ward,MIA.WARD116@EXAMPLE.NET,282-722-9927,Office Manager
+C00131,A0051,Zoe,Singh,  zoe.singh131@example.org  ,669.380.1184,Controller
+C00005,A0002,Nia,Singh,nia.singh5@example.net,0589113529,Controller
+C00265,A0102,Nia,Lopez,NIA.LOPEZ265@EXAMPLE.COM,(002) 447-1462,Owner
+C00206,A0081,Omar,Ward,omar.ward206@example.net,795-453-8179,IT Lead
+C00092,A0033,Eli,Brooks,  eli.brooks92@example.net  ,(851) 027-2614,Office Manager
+C00009,A0003,Leo,Nguyen,LEO.NGUYEN9@EXAMPLE.ORG,226-609-3796,Office Manager
+C00057,A0022,Zoe,Chen,ZOE.CHEN57@EXAMPLE.ORG,1467741862,Controller
+C00249,A0097,Noah,Lopez,  noah.lopez249@example.net  ,907-726-2570,IT Lead
+C00111,A0042,Omar,Reyes,OMAR.REYES111@EXAMPLE.NET,781.414.1397,Office Manager
+C00012,A0005,Liam,Patel,LIAM.PATEL12@EXAMPLE.ORG,(286) 692-9662,Operations Director
+C00239,A0093,Omar,Brooks,  omar.brooks239@example.org  ,723-248-7632,Operations Director
+C00147,A0057,Mia,Brooks,  mia.brooks147@example.org  ,228.200.5577,Operations Director
+C00163,A0064,Liam,Reyes,LIAM.REYES163@EXAMPLE.COM,717-058-6509,Owner
+C00019,A0008,Liam,Singh,liam.singh19@example.net,4577590175,Office Manager
+C00013,A0006,Noah,Patel,  noah.patel13@example.org  ,7905072368,IT Lead
+C00168,A0066,Zoe,Davis,ZOE.DAVIS168@EXAMPLE.NET,899.210.7522,Operations Director
+C00047,A0018,Ivy,Kim,ivy.kim47@example.com,(239) 559-0599,IT Lead
+C00281,A0110,Nia,Davis,nia.davis281@example.com,(061) 675-6770,Operations Director
+C00141,A0055,Noah,Davis,noah.davis141@example.net,(574) 489-0612,Controller
+C00042,A0017,Liam,Ward,liam.ward42@example.net,4101372151,Owner
+C00014,A0006,Ivy,Lopez,IVY.LOPEZ14@EXAMPLE.ORG,(219) 034-0438,IT Lead
+C00300,A0117,Ivy,Singh,  ivy.singh300@example.net  ,(300) 893-1734,Owner
+C00292,A0114,Zoe,Davis,ZOE.DAVIS292@EXAMPLE.COM,070-015-9416,IT Lead
+C00049,A0019,Eli,Reyes,,292-185-1569,Controller
+C00305,A0119,Ivy,Brooks,IVY.BROOKS305@EXAMPLE.ORG,5280924287,Office Manager
+C00124,A0047,Noah,Ward,NOAH.WARD124@EXAMPLE.NET,068.650.8637,Operations Director
+C00037,A0014,Nia,Singh,,571-918-2619,IT Lead
+C00098,A0036,Ava,Nguyen,AVA.NGUYEN98@EXAMPLE.ORG,244-204-3805,Operations Director
+C00294,A0115,Mia,Patel,,234.764.9078,Owner
+C00030,A0011,Ava,Brooks,  ava.brooks30@example.net  ,210.202.7588,Office Manager
+C00077,A0028,Mia,Nguyen,mia.nguyen77@example.net,542.168.9421,Controller
+C00306,A0119,Nia,Singh,NIA.SINGH306@EXAMPLE.COM,415.027.4564,Operations Director
+C00308,A0120,Ivy,Chen,IVY.CHEN308@EXAMPLE.ORG,075-877-7121,Office Manager
+C00309,A0120,Noah,Patel,NOAH.PATEL309@EXAMPLE.NET,849-939-0892,Office Manager
+C00181,A0071,Mia,Patel,MIA.PATEL181@EXAMPLE.NET,832-482-6292,Operations Director
+C00228,A0090,Liam,Lopez,liam.lopez228@example.org,654.214.0665,Controller
+C00120,A0044,Liam,Nguyen,liam.nguyen120@example.org,517-773-9260,Office Manager
+C00202,A0079,Liam,Davis,  liam.davis202@example.net  ,230-768-1040,Controller
+C00222,A0088,Zoe,Nguyen,ZOE.NGUYEN222@EXAMPLE.ORG,(280) 512-9276,IT Lead
+C00001,A0001,Liam,Kim,LIAM.KIM1@EXAMPLE.ORG,379.937.1240,Operations Director
+C00095,A0036,Ivy,Ward,  ivy.ward95@example.net  ,346.547.2269,Operations Director
+C00204,A0080,Noah,Brooks,NOAH.BROOKS204@EXAMPLE.COM,(098) 813-8585,Controller
+C00268,A0103,Noah,Chen,NOAH.CHEN268@EXAMPLE.NET,(285) 544-5189,Owner
+C00058,A0023,Zoe,Lopez,ZOE.LOPEZ58@EXAMPLE.ORG,(434) 902-1158,Operations Director
+C00143,A0056,Omar,Davis,OMAR.DAVIS143@EXAMPLE.COM,(455) 877-1694,Office Manager
+C00084,A0031,Eli,Singh,ELI.SINGH84@EXAMPLE.NET,110-022-5579,Controller
+C00097,A0036,Eli,Davis,ELI.DAVIS97@EXAMPLE.ORG,(996) 846-0810,Owner
+C00007,A0003,Leo,Chen,leo.chen7example.org,6112545738,Controller
+C00167,A0066,Ivy,Reyes,ivy.reyes167@example.net,049.082.4043,Owner
+C00046,A0018,Zoe,Reyes,  zoe.reyes46@example.org  ,859-321-3348,Office Manager
+C00125,A0048,Zoe,Lopez,  zoe.lopez125@example.com  ,149-864-3009,Operations Director
+C00155,A0061,Ava,Nguyen,  ava.nguyen155@example.org  ,183-764-5208,Controller
+C00283,A0110,Noah,Davis,noah.davis283@example.com,647-969-5450,Office Manager
+C00048,A0019,Ava,Chen,ava.chen48@example.com,393.087.0593,Office Manager
+C00159,A0062,Leo,Davis,  leo.davis159@example.org  ,(873) 928-5574,Owner
+C00179,A0071,Ivy,Patel,ivy.patel179@example.com,555.438.4046,Office Manager
+C00218,A0086,Liam,Patel,  liam.patel218@example.net  ,847-818-9137,Operations Director
+C00209,A0083,Liam,Brooks,LIAM.BROOKS209@EXAMPLE.NET,769-639-3827,Controller
+C00065,A0025,Ava,Davis,ava.davis65@example.com,148-628-9023,Office Manager
+C00132,A0051,Zoe,Nguyen,zoe.nguyen132example.net,376-904-2681,Operations Director
+C00180,A0071,Ivy,Patel,  ivy.patel180@example.com  ,689.363.9264,IT Lead
+C00164,A0065,Mia,Davis,  mia.davis164@example.com  ,1386338392,Owner
+C00302,A0118,Zoe,Brooks,zoe.brooks302@example.net,7626393436,Office Manager
+C00256,A0099,Nia,Davis,NIA.DAVIS256@EXAMPLE.ORG,749-242-4375,Office Manager
+C00234,A0091,Nia,Brooks,nia.brooks234@example.org,8700505061,Operations Director
+C00034,A0013,Nia,Reyes,nia.reyes34@example.org,174.451.8705,Operations Director
+C00160,A0063,Zoe,Davis,ZOE.DAVIS160@EXAMPLE.ORG,708-620-9593,Operations Director
+C00070,A0026,Omar,Brooks,omar.brooks70@example.org,(171) 545-4443,Owner
+C00102,A0039,Omar,Brooks,  omar.brooks102@example.org  ,(985) 158-3281,IT Lead
+C00295,A0116,Leo,Nguyen,LEO.NGUYEN295@EXAMPLE.ORG,2575409003,Controller
+C00004,A0002,Zoe,Chen,  zoe.chen4@example.org  ,7243426617,Operations Director
+C00153,A0060,Ava,Nguyen,  ava.nguyen153@example.com  ,207-356-4757,Controller
+C00318,A0110,Eli,Lopez,  eli.patel280@example.org  ,794-523-2194,IT Lead
+C00255,A0098,Leo,Kim,,704.310.3856,Controller
+C00080,A0029,Liam,Singh,  liam.singh80@example.org  ,618-472-3046,Operations Director
+C00261,A0101,Mia,Brooks,  mia.brooks261@example.com  ,018-718-6375,Controller
+C00055,A0021,Noah,Ward,  noah.ward55@example.org  ,201.533.6884,Controller
+C00073,A0027,Mia,Brooks,  mia.brooks73@example.org  ,554-947-1709,IT Lead
+C00161,A0063,Mia,Davis,  mia.davis161@example.net  ,782-945-6511,Owner
+C00272,A0106,Nia,Ward,nia.ward272@example.com,(714) 014-0119,Office Manager
+C00100,A0037,Leo,Nguyen,leo.nguyen100@example.net,(598) 933-4721,Operations Director
+C00217,A0086,Leo,Nguyen,  leo.nguyen217@example.net  ,846.895.0097,Owner
+C00138,A0054,Ivy,Patel,IVY.PATEL138@EXAMPLE.ORG,187.500.3691,Operations Director
+C00165,A0065,Omar,Kim,  omar.kim165@example.net  ,7612286852,Controller
+C00271,A0105,Noah,Nguyen,noah.nguyen271@example.org,(232) 161-1076,Owner
+C00284,A0111,Omar,Reyes,omar.reyes284@example.net,(561) 655-6503,Controller
+C00051,A0020,Ava,Ward,ava.ward51@example.org,902.959.3917,Owner
+C00149,A0058,Ivy,Brooks,  ivy.brooks149@example.com  ,4008254780,IT Lead
+C00154,A0060,Noah,Reyes,  noah.reyes154@example.org  ,(618) 723-4601,IT Lead
+C00320,A0040,Omar,Ward,OMAR.WARD104@EXAMPLE.COM,641-220-3103,Office Manager
+C00140,A0055,Omar,Patel,OMAR.PATEL140@EXAMPLE.NET,314-386-6322,Office Manager
+C00232,A0091,Zoe,Singh,zoe.singh232@example.com,1585174328,Office Manager
+C00266,A0102,Zoe,Lopez,  zoe.lopez266@example.com  ,959-796-4715,Controller
+C00104,A0040,Omar,Ward,OMAR.WARD104@EXAMPLE.COM,0561648408,IT Lead
+C00311,A9001,Leo,Brooks,  leo.brooks311@example.net  ,050.975.9230,Controller
+C00190,A0075,Zoe,Lopez,ZOE.LOPEZ190@EXAMPLE.ORG,212-309-4077,Operations Director
+C00072,A0027,Leo,Kim,leo.kim72@example.net,428.241.7248,Owner
+C00176,A0069,Nia,Nguyen,  nia.nguyen176@example.com  ,884-879-2069,Controller
+C00291,A0114,Liam,Patel,liam.patel291@example.com,034.778.6603,Office Manager
+C00193,A0076,Omar,Ward,omar.ward193@example.net,2795014556,Operations Director
+C00259,A0099,Noah,Lopez,,2088547492,Controller
+C00142,A0056,Liam,Lopez,liam.lopez142@example.net,545.588.4506,Operations Director
+C00170,A0066,Omar,Singh,omar.singh170@example.com,055.661.3906,Operations Director
+C00189,A0075,Ivy,Davis,ivy.davis189@example.net,(268) 602-5922,Owner
+C00076,A0028,Ivy,Singh,  ivy.singh76@example.org  ,(676) 008-3505,Owner
+C00278,A0109,Omar,Singh,  omar.singh278@example.com  ,3674994657,IT Lead
+C00015,A0007,Liam,Ward,  liam.ward15@example.com  ,(485) 807-8361,Controller
+C00314,A9004,Leo,Singh,  leo.singh314@example.org  ,4996165926,Owner
+C00191,A0076,Omar,Lopez,  omar.lopez191@example.org  ,(671) 990-3849,Owner
+C00280,A0110,Eli,Patel,ELI.PATEL280@EXAMPLE.ORG,991.187.7347,Operations Director
+C00101,A0038,Ivy,Brooks,ivy.brooks101@example.net,422.940.5720,Operations Director
+C00016,A0007,Ava,Lopez,ava.lopez16@example.org,(517) 133-9596,Office Manager
+C00112,A0042,Mia,Chen,mia.chen112@example.org,913.577.5949,Controller
+C00236,A0092,Liam,Lopez,liam.lopez236@example.net,2911179931,Controller
+C00290,A0113,Eli,Lopez,ELI.LOPEZ290@EXAMPLE.COM,(324) 665-1364,Controller
+C00289,A0112,Zoe,Ward,ZOE.WARD289@EXAMPLE.NET,7820829737,Operations Director
+C00087,A0032,Ava,Chen,ava.chen87@example.org,5089935889,Office Manager
+C00245,A0095,Zoe,Nguyen,zoe.nguyen245@example.org,209.042.1776,Office Manager
+C00018,A0007,Ivy,Reyes,ivy.reyes18example.org,223.253.6729,IT Lead
+C00227,A0089,Mia,Ward,,111.926.9212,Controller
+C00003,A0001,Leo,Ward,leo.ward3@example.com,564-651-9398,IT Lead
+C00038,A0015,Mia,Brooks,  mia.brooks38@example.org  ,565-574-3132,Office Manager
+C00226,A0089,Ava,Singh,  ava.singh226@example.com  ,817-534-4300,Owner
+C00008,A0003,Leo,Lopez,leo.lopez8@example.org,(140) 105-1238,Controller
+C00195,A0077,Eli,Brooks,eli.brooks195@example.net,(995) 299-7877,Controller
+C00263,A0102,Ivy,Singh,  ivy.singh263@example.com  ,9912347851,Owner
+C00264,A0102,Zoe,Singh,zoe.singh264@example.com,879.232.6487,Operations Director
+C00321,A0116,Ivy,Lopez,  ivy.reyes297@example.org  ,2368314727,Owner
+C00105,A0040,Mia,Kim,mia.kim105@example.net,(112) 880-1336,Operations Director
+C00106,A0040,Ivy,Chen,  ivy.chen106@example.net  ,207-501-1024,Operations Director
+C00110,A0042,Liam,Brooks,liam.brooks110@example.com,536-822-2394,Office Manager
+C00215,A0085,Eli,Singh,eli.singh215@example.com,(422) 010-2762,IT Lead
+C00269,A0104,Eli,Lopez,  eli.lopez269@example.org  ,521-328-3389,IT Lead
+C00282,A0110,Zoe,Patel,  zoe.patel282@example.org  ,6246719788,IT Lead
+C00136,A0053,Mia,Nguyen,  mia.nguyen136@example.com  ,395-211-1790,IT Lead
+C00039,A0015,Liam,Patel,LIAM.PATEL39@EXAMPLE.ORG,756-185-3747,Owner
+C00207,A0082,Leo,Brooks,  leo.brooks207@example.net  ,773.329.4562,Controller
+C00171,A0067,Omar,Patel,omar.patel171@example.org,8320679981,Controller
+C00235,A0092,Mia,Chen,  mia.chen235@example.com  ,270-790-3202,Controller
+C00231,A0090,Omar,Reyes,,776-618-3067,Operations Director
+C00312,A9002,Ava,Chen,ava.chen312@example.net,(961) 642-3610,IT Lead
+C00251,A0097,Eli,Reyes,eli.reyes251example.com,(657) 905-5281,Office Manager
+C00279,A0109,Noah,Lopez,NOAH.LOPEZ279@EXAMPLE.COM,147-732-0101,Office Manager
+C00096,A0036,Eli,Davis,  eli.davis96@example.net  ,333.945.2288,Owner
+C00069,A0026,Eli,Lopez,,374.896.9108,Operations Director
+C00022,A0008,Noah,Reyes,  noah.reyes22@example.org  ,(436) 110-3712,Operations Director
+C00044,A0017,Omar,Ward,OMAR.WARD44@EXAMPLE.COM,(476) 870-1462,Operations Director
+C00317,A0080,Noah,Chen,  noah.brooks204@example.com  ,017.226.0164,Operations Director
+C00074,A0027,Nia,Chen,,6846022356,Office Manager
+C00088,A0032,Leo,Kim,leo.kim88@example.net,628-900-2877,IT Lead
+C00122,A0045,Omar,Lopez,omar.lopez122@example.org,236.929.2984,IT Lead
+C00063,A0024,Noah,Ward,NOAH.WARD63@EXAMPLE.NET,606.530.7450,Controller
+C00002,A0001,Eli,Lopez,ELI.LOPEZ2@EXAMPLE.ORG,692.459.3752,Controller
+C00288,A0112,Eli,Brooks,ELI.BROOKS288@EXAMPLE.COM,987.635.1484,Office Manager
+C00197,A0077,Zoe,Brooks,  zoe.brooks197@example.com  ,448-850-1556,Office Manager
+C00296,A0116,Eli,Chen,eli.chen296@example.net,(376) 064-4134,IT Lead
+C00307,A0119,Noah,Kim,noah.kim307@example.net,7287032032,Controller
+C00287,A0112,Ivy,Nguyen,  ivy.nguyen287@example.org  ,183-440-4963,Operations Director
+C00032,A0012,Omar,Patel,omar.patel32@example.org,241-913-8000,IT Lead
+C00036,A0014,Ava,Singh,ava.singh36example.net,413-836-7024,Owner
+C00210,A0083,Omar,Singh,  omar.singh210@example.org  ,9583219719,Controller
+C00086,A0031,Leo,Ward,,729-659-0277,IT Lead
+C00094,A0035,Ava,Davis,  ava.davis94@example.org  ,978.292.2169,Operations Director
+C00166,A0065,Nia,Kim,,665.939.8368,Controller
+C00040,A0016,Zoe,Ward,ZOE.WARD40@EXAMPLE.COM,(352) 135-6804,Owner
+C00257,A0099,Leo,Patel,LEO.PATEL257@EXAMPLE.NET,(284) 222-2310,IT Lead
+C00188,A0075,Ava,Patel,  ava.patel188@example.org  ,9371452111,Controller
+C00128,A0050,Noah,Chen,noah.chen128@example.com,8658902601,Operations Director
+C00238,A0093,Leo,Nguyen,leo.nguyen238@example.net,(021) 962-0710,Owner
+C00196,A0077,Ava,Chen,ava.chen196example.com,(713) 966-0558,Owner
+C00114,A0043,Liam,Brooks,LIAM.BROOKS114@EXAMPLE.COM,(834) 110-8099,Owner
+C00262,A0101,Ivy,Kim,  ivy.kim262@example.org  ,5045547813,IT Lead
+C00075,A0028,Noah,Chen,noah.chen75@example.org,5250074329,Owner
+C00187,A0075,Zoe,Ward,zoe.ward187@example.com,8277181298,IT Lead
+C00041,A0016,Leo,Davis,leo.davis41example.net,(831) 712-1003,Office Manager
+C00093,A0034,Ivy,Nguyen,,(351) 609-1779,IT Lead
+C00053,A0021,Ivy,Patel,IVY.PATEL53@EXAMPLE.ORG,765-861-7932,Owner
+C00223,A0088,Noah,Nguyen,NOAH.NGUYEN223@EXAMPLE.NET,(504) 102-7674,IT Lead
+C00031,A0012,Zoe,Chen,  zoe.chen31@example.com  ,564.814.9177,Owner
+C00162,A0064,Ava,Nguyen,AVA.NGUYEN162@EXAMPLE.COM,731-096-7899,Controller
+C00043,A0017,Omar,Singh,OMAR.SINGH43@EXAMPLE.NET,6706625324,Office Manager
+C00298,A0117,Ava,Reyes,ava.reyes298@example.net,(272) 063-4591,Office Manager
+C00130,A0051,Nia,Brooks,  nia.brooks130@example.com  ,098-839-2053,Office Manager
+C00316,A0119,Nia,Chen,nia.singh306@example.com,818.661.7945,Operations Director
+C00144,A0056,Eli,Singh,  eli.singh144@example.net  ,996.112.5355,Controller
+C00211,A0083,Leo,Patel,leo.patel211@example.org,(619) 196-5701,Operations Director
+C00027,A0010,Ava,Kim,  ava.kim27@example.org  ,269-658-2710,Owner
+C00323,A0069,Nia,Kim,nia.nguyen176@example.com,1667998407,IT Lead
+C00220,A0087,Omar,Brooks,omar.brooks220@example.net,940.792.9049,IT Lead
+C00293,A0115,Omar,Davis,OMAR.DAVIS293@EXAMPLE.COM,8984713915,Office Manager
+C00285,A0111,Liam,Brooks,LIAM.BROOKS285@EXAMPLE.COM,520.850.7698,Owner
+C00157,A0061,Ava,Ward,AVA.WARD157@EXAMPLE.NET,792-513-2719,Owner
+C00201,A0079,Ava,Nguyen,AVA.NGUYEN201@EXAMPLE.COM,780.782.3578,Office Manager
+C00028,A0011,Ava,Singh,AVA.SINGH28@EXAMPLE.NET,486-661-8892,Controller
+C00029,A0011,Mia,Patel,MIA.PATEL29@EXAMPLE.NET,569-146-3031,IT Lead
+C00194,A0076,Leo,Patel,  leo.patel194@example.com  ,458-683-3901,IT Lead
+C00216,A0086,Omar,Singh,,2786876532,Operations Director
+C00247,A0096,Mia,Nguyen,MIA.NGUYEN247@EXAMPLE.ORG,693-929-0600,IT Lead
+C00118,A0044,Omar,Patel,OMAR.PATEL118@EXAMPLE.ORG,659.184.6386,IT Lead
+C00205,A0081,Zoe,Ward,zoe.ward205@example.org,8702070160,IT Lead
+C00310,A9000,Leo,Chen,leo.chen310@example.org,0416591520,IT Lead
+C00026,A0009,Zoe,Nguyen,zoe.nguyen26@example.net,9836403761,Operations Director
+C00054,A0021,Eli,Brooks,  eli.brooks54@example.com  ,1526218159,Owner
+C00078,A0029,Omar,Davis,omar.davis78@example.org,(625) 753-2603,Office Manager
+C00137,A0053,Eli,Lopez,  eli.lopez137@example.net  ,4728463920,IT Lead
+C00024,A0009,Noah,Patel,  noah.patel24@example.com  ,8909275326,Office Manager
+C00182,A0072,Noah,Reyes,noah.reyes182@example.org,664.742.3122,Operations Director
+C00175,A0068,Eli,Patel,ELI.PATEL175@EXAMPLE.NET,1103924051,IT Lead
+C00133,A0052,Liam,Davis,  liam.davis133@example.org  ,8947697357,Operations Director
+C00250,A0097,Eli,Davis,,464-989-3195,Operations Director
+C00115,A0043,Nia,Davis,nia.davis115@example.org,2563942788,Controller
+C00062,A0024,Liam,Chen,LIAM.CHEN62@EXAMPLE.NET,148-564-6799,Office Manager
+C00117,A0044,Zoe,Kim,zoe.kim117@example.com,038.567.7005,Controller
+C00059,A0023,Ivy,Davis,  ivy.davis59@example.org  ,(879) 374-1608,Owner
+C00221,A0087,Nia,Chen,  nia.chen221@example.org  ,(429) 444-0192,IT Lead
+C00173,A0068,Ivy,Ward,ivy.ward173@example.com,898-331-4659,IT Lead
+C00033,A0012,Noah,Patel,NOAH.PATEL33@EXAMPLE.COM,863-536-5419,Operations Director
+C00017,A0007,Ava,Ward,  ava.ward17@example.org  ,849-825-4494,Office Manager
+C00258,A0099,Noah,Nguyen,noah.nguyen258@example.net,055-257-8284,IT Lead
+C00090,A0032,Leo,Lopez,leo.lopez90@example.org,170.166.0880,Operations Director
+C00082,A0030,Ivy,Brooks,ivy.brooks82@example.com,0873753001,Office Manager
+C00183,A0073,Mia,Reyes,MIA.REYES183@EXAMPLE.ORG,(172) 897-5267,Office Manager
+C00134,A0052,Leo,Chen,  leo.chen134@example.org  ,163.356.5880,Office Manager
+C00184,A0073,Ava,Singh,  ava.singh184@example.com  ,463.331.2797,IT Lead
+C00010,A0004,Zoe,Chen,  zoe.chen10@example.net  ,182.553.7147,Operations Director
+C00025,A0009,Liam,Patel,  liam.patel25@example.com  ,965.652.3413,Owner
+C00108,A0041,Nia,Chen,  nia.chen108@example.org  ,(491) 476-6072,Office Manager
+C00121,A0045,Nia,Reyes,  nia.reyes121@example.net  ,202.428.6990,Owner
+C00156,A0061,Zoe,Nguyen,zoe.nguyen156@example.org,0313650249,Office Manager
+C00253,A0098,Leo,Davis,LEO.DAVIS253@EXAMPLE.NET,178-847-9513,Owner
+C00213,A0085,Omar,Reyes,omar.reyes213example.net,862.405.8008,Owner
+C00052,A0020,Eli,Patel,eli.patel52@example.net,157-043-3154,Owner
+C00252,A0097,Mia,Davis,mia.davis252example.com,793-355-4864,Owner
+C00081,A0029,Omar,Patel,omar.patel81@example.org,189.141.1739,Operations Director
+C00103,A0040,Mia,Nguyen,mia.nguyen103@example.net,555.439.8780,IT Lead
+C00089,A0032,Eli,Nguyen,ELI.NGUYEN89@EXAMPLE.ORG,4083866317,Owner
+C00067,A0026,Eli,Kim,  eli.kim67@example.com  ,(414) 060-2933,Office Manager
+C00248,A0096,Leo,Chen,leo.chen248@example.org,731-806-3254,Owner
+C00045,A0017,Nia,Reyes,nia.reyes45@example.org,578-759-8564,Controller
+C00145,A0056,Ivy,Brooks,  ivy.brooks145@example.org  ,598.762.2023,Owner
+C00107,A0041,Ivy,Singh,,665-061-8091,Owner
+C00315,A0009,Zoe,Singh,zoe.nguyen26@example.net,742-243-8649,Operations Director
+C00242,A0094,Omar,Lopez,omar.lopez242@example.com,1082207811,Operations Director
+C00185,A0074,Ava,Ward,ava.ward185@example.net,6569998808,IT Lead
+C00324,A0110,Zoe,Davis,  zoe.patel282@example.org  ,973-080-6958,Controller
+C00200,A0079,Liam,Brooks,liam.brooks200@example.net,504.617.3574,Office Manager
+C00151,A0058,Liam,Singh,liam.singh151@example.net,(389) 448-4631,Controller
+C00068,A0026,Ivy,Davis,  ivy.davis68@example.com  ,072.290.3494,IT Lead
+C00240,A0093,Leo,Ward,  leo.ward240@example.com  ,456.083.3181,Operations Director
+C00174,A0068,Eli,Nguyen,ELI.NGUYEN174@EXAMPLE.ORG,590-425-9792,Office Manager
+C00301,A0118,Omar,Brooks,omar.brooks301@example.com,(152) 910-8677,Office Manager
+C00113,A0043,Eli,Nguyen,ELI.NGUYEN113@EXAMPLE.COM,645-257-7754,Office Manager
+C00260,A0100,Ava,Patel,AVA.PATEL260@EXAMPLE.NET,814-069-3751,Operations Director
+C00119,A0044,Omar,Reyes,omar.reyes119@example.net,272.318.4322,Operations Director
+C00225,A0089,Zoe,Chen,  zoe.chen225@example.org  ,967-393-8525,Owner
+C00177,A0070,Mia,Ward,  mia.ward177@example.org  ,0701645104,Office Manager
+C00241,A0094,Mia,Brooks,MIA.BROOKS241@EXAMPLE.COM,(312) 772-2005,IT Lead
+C00099,A0037,Nia,Singh,  nia.singh99@example.com  ,840.666.5800,Office Manager
+C00148,A0058,Nia,Patel,nia.patel148@example.net,979-688-4578,IT Lead
+C00083,A0030,Nia,Chen,nia.chen83example.net,143-744-7012,Controller
+C00011,A0004,Ivy,Ward,ivy.ward11@example.org,(915) 579-2499,Controller
+C00224,A0088,Ivy,Lopez,ivy.lopez224@example.org,286.047.6580,IT Lead
+C00230,A0090,Liam,Reyes,LIAM.REYES230@EXAMPLE.COM,(194) 707-2006,Controller
+C00178,A0070,Nia,Chen,nia.chen178example.org,798-123-8780,Office Manager
+C00319,A0055,Noah,Davis,noah.davis141@example.net,061.027.7697,Operations Director
+C00254,A0098,Noah,Brooks,NOAH.BROOKS254@EXAMPLE.COM,1241272380,Operations Director
+C00060,A0024,Noah,Nguyen,  noah.nguyen60@example.com  ,206-163-2945,Owner
+C00243,A0095,Ivy,Nguyen,ivy.nguyen243@example.net,531-531-3636,IT Lead
+C00214,A0085,Ava,Nguyen,AVA.NGUYEN214@EXAMPLE.ORG,(965) 666-6832,Office Manager
