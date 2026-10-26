@@ -47,3 +47,7 @@ synthetic data where the correct counts are known in advance.
 - One command migrates the sample files.
 - The report balances for accounts and contacts, with a reason for every reject.
 - Tests pass, and the README explains how to run it.
+
+## Assumptions
+- All-numeric dates such as 03/04/2021 are read as US month/day/year. Ambiguous dates
+  are a known migration risk, so this is a deliberate, stated choice rather than a guess.
